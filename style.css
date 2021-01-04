@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+body{
+    background-color: lightgrey;
+    font-family: 'Nunito';
+    color: blue !important;
+}
+table{
+    text-align: center;
+}
+.titleh1h4{
+    text-align: center ;
+    width: 30px ;
+    height: 50px ;
+}
+.connexion{
+    align-items: end;
+}
+.tabhead{
+    align-content: center;
+}
+.corps{
+    align-content: center;
+}
+aside{                          /*essayer de faire un fond pour repérer la taille, hors cela décale le contenu de la page*/
+    /*background-color: yellow;
+    width: 150px;
+    height: 300px;*/
+}
